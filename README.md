@@ -1,0 +1,1 @@
+# ember-cli-visual-acceptance.github.io
